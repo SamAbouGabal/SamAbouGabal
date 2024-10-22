@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samabougabal&label=Profile%20views&color=0e75b6&style=flat" alt="samabougabal" /> </p>
 
-- 🌱 I’m currently learning **Unreal Engine 5 Blueprints**
+- 🌱 I’m currently learning **VR & AR**
 
 - 📫 How to reach me **samabougabal@hotmail.com**
 
