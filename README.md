@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samabougabal&label=Profile%20views&color=0e75b6&style=flat" alt="samabougabal" /> </p>
 
-- 🌱 I’m currently working on my **Exams Project, im working on a Graphics Engine**
+- 🌱 I’m currently working on my **Exams Project, a Graphics Engine**
 
 - 📫 How to reach me **samabougabal@hotmail.com**
 
