@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **samabougabal@hotmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Sam/Downloads/CV%20(1).pdf](file:///C:/Users/Sam/Downloads/CV%20(1).pdf)
+- 📄 Know about my experiences [Portfolio](https://samabougabal.wixsite.com/sam-abou-gabal-por-1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
